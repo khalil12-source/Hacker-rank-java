@@ -1,4 +1,4 @@
-// github.com/RodneyShag
+
 
 import java.util.Scanner;
 import java.util.BitSet;
